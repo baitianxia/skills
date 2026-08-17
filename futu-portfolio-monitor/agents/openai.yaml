@@ -1,0 +1,4 @@
+interface:
+  display_name: "富途持仓分析与监控"
+  short_description: "通过富途 OpenD 只读分析账户持仓、风险集中度、盈亏与价格变化提醒"
+  default_prompt: "Inspect and analyze my Futu portfolio through local OpenD in read-only mode."
